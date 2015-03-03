@@ -7,7 +7,7 @@ A personal boilerplate for setting up Varnish Cache.
 Step 1 - Install Core Essentials:  
 --------------------
     sudo apt-get -y update
-    sudo apt-get -y update
+    sudo apt-get -y upgrade
     sudo apt-get -y install build-essential git  
 
 Step 2 - Install Varnish (Ubuntu/14.04 Trusty Tahr)
